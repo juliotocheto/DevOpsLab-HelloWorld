@@ -20,5 +20,5 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: $ENCRYPTED-PW
+    secure: 46f25ec8\-a161\-49aa\-b746\-e12de07f7f09
   app: tochetoapphello
